@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # Flight-Price-Prediction
-=======
-# Kaggle-comp
+
 This notebook belongs to a private kaggle competition within IEEE Computer Society Chapter (Data Science Circle).
 My team Achieved the third place among 6 teams whot took part.
 - My team:
