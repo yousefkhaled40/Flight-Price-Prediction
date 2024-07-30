@@ -44,4 +44,3 @@ My main focus was on Data cleaning
     - Q5: what is Total number of routes from one city to another?
     - Q6: what is Average Price of different Airlnes from Source city to Destination city?
     - Q7: Does ticket price change based on the departure time and arrival time?
->>>>>>> 41cd031 (uploading the project)
